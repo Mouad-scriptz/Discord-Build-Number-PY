@@ -2,5 +2,5 @@
 Simple requests to scrape build number from js files.
 
 # Usage
-Install packages (requests)
-Run main.py
+1. Install packages (requests)
+2. Run main.py
